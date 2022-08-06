@@ -1,0 +1,2 @@
+# playbonus
+RUST plugin "PlayBonus"
